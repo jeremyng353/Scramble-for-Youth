@@ -1,0 +1,9 @@
+How to set up quartus 
+1. Open quartus project
+2. Add the tcl script to quartus project 
+3. open tools->tcl scripts
+4. run the tcl script
+5. open qsys
+6. run HDL generator, and save the file as Computer_System
+7. Compile quartus project
+
